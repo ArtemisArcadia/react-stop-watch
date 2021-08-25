@@ -12,7 +12,7 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 # This Stopwatch is hosted at : https://osmanabdulmoomin.github.io/react-watch/
-## To run the project on your device, navigate to the folder in your terminal and run yarn start.
+## To run the project on your device, navigate to the folder in your terminal and run yarn install, then yarn start.
 
 # Tools used 
 ## React
